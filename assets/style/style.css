@@ -1,0 +1,22 @@
+body{
+    background-color: #000;
+    font-family: "Roboto", sans-serif;
+}
+.main-text{
+    font-weight: 600;
+    font-size: 74px;
+    background-image: linear-gradient(to right, #8AD4EC, #EF96FF, #FF56A9, #FFAA6C );
+    display: inline;
+    
+
+}
+.second-text{
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    margin-top: 14px;
+}
+body{
+    text-align: center;
+
+}
